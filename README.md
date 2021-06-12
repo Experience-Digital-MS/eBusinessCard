@@ -20,10 +20,11 @@ The QR code is generated via web api and it doesn't requires a power automate fl
 ![image](https://user-images.githubusercontent.com/84701147/121759146-b09bc280-cb67-11eb-9924-05b7fb49b059.png)
 
 **Step 5**: Click on 'Insert Tab' then 'Custom' and select 'Import Component'
-![image](https://user-images.githubusercontent.com/84701147/121759532-7501f800-cb69-11eb-8d3f-ff1fdb8fe569.png)
+![image](https://user-images.githubusercontent.com/84701147/121759717-7d0e6780-cb6a-11eb-80f5-681089426056.png)
 
 **Step 6**: Upload the file 'EDMS - eBusinessCard.msapp'
-![image](https://user-images.githubusercontent.com/84701147/121759589-bc888400-cb69-11eb-8489-1d62b37f7240.png)
+
+![image](https://user-images.githubusercontent.com/84701147/121759759-b8109b00-cb6a-11eb-82a4-7d410a7a33f5.png)
 
 
 **Step 7**: Make the required changes in datasource or formulas as per your need
