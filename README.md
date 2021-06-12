@@ -1,6 +1,6 @@
 # Contactless Business Card
 
-**About Us:** Experience Digital, Microsoft Business Solution is a start up firm providing all services around Microsoft Business Applications. All our team members are active in the community and contribute regularly.
+**About Us:** Experience Digital, Microsoft Business Solution is a start up firm providing all services around Microsoft Business Applications. All our team members are active in the community and contribute regularly. We are a Gold Microsoft Partner in Application Development category.
 
 **Request:** Please **follow our LinkedIn page** as a token of appreciation https://www.linkedin.com/company/experiencedigitalms
 
