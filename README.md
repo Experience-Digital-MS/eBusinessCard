@@ -4,8 +4,8 @@
 
 **Request:** Please **follow our LinkedIn page** as a token of appreciation https://www.linkedin.com/company/experiencedigitalms
 
-**Contactless Business Card:** This components adds a user profile page in your app. The data source used is Office 365 but you can change it to Microsoft 365 or Dynamics 365 if need be.
-The QR code is generated via web api and it doesn't requires a power automate flow. This can be really handy for your Sales Team or Field Service Team, to enable them with a no contact business card sharing at no cost and saving you dollars.
+**Contactless Business Card:** This component adds a user profile page in your app. The data source used is Office 365 but you can change it to Microsoft 365 or Dynamics 365 if need be.
+The QR code is generated via web api and it doesn't requires a power automate flow. This can be really handy for your Sales Team or Field Service Team, to enable them with a no contact business card sharing at no cost and saving you dollars. Someone scanning the QR code will allow them to save the contact details on both iOS and android devices.
 
 **Instructions:**
 
